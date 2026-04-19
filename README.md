@@ -1,7 +1,3 @@
-Aşağıda sənin oyunun üçün hazır, səliqəli və GitHub üçün uyğun **README.md** var:
-
----
-
 # 🐍 SLITER — Neon Snake Game
 
 A fast-paced, retro-futuristic snake game inspired by classic arcade mechanics. Eat, grow, survive — and try not to crash.
